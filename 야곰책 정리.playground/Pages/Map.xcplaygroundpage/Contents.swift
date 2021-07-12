@@ -61,6 +61,7 @@ let rang = (0 ... 3)
 let resultRange = rang.map { $0 * 2 }
 print(resultRange)
 
+// my commit
 
 
 //: [Next](@next)
