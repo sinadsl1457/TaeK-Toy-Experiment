@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true'>
+    <pages>
+        <page name='Guide'/>
+        <page name='Q1'/>
+        <page name='Q2'/>
+        <page name='Q3'/>
+        <page name='Q4'/>
+        <page name='Q5'/>
+        <page name='Q6'/>
+        <page name='Q7'/>
+        <page name='Q8'/>
+        <page name='Q9'/>
+        <page name='Q10'/>
+    </pages>
+</playground>
